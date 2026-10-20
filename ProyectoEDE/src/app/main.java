@@ -6,6 +6,8 @@ public class main {
 		// TODO Auto-generated method stub
 //prueba clase
 			//voy a añadir otro cambio
+		
+		System.out.println("Hola");
 	}
 
 }
